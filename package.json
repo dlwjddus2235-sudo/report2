@@ -1,0 +1,8 @@
+{
+  "name": "govdoc-ai",
+  "version": "4.0.0",
+  "description": "대한민국 정부사업 문서 자동생성 시스템",
+  "private": true,
+  "engines": { "node": "18.x" },
+  "dependencies": {}
+}
